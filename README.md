@@ -6,7 +6,7 @@ A beautiful area notification as you walk in and out of different zones!
 
 ## Showcase
 
-https://raw.githubusercontent.com/agaertner/nxa-zone-display-public/main/assets/showcase.webm
+https://raw.githubusercontent.com/agaertner/nxa-zone-display-public/main/assets/showcase.mp4
 
 The video showcases the original Blish HUD module. This Nexus port is an exact equivalent in behaviour and appearance.
 
